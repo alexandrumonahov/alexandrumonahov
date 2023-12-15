@@ -4,9 +4,8 @@
 - :office: Coming from the field of economics and finance - I'm looking to apply these methods to banking and financial markets.
 - 🌱 Explainable AI is something that has caught my attention recently.
 - :bulb: I’m looking to collaborate on projects that seek to make advanced data analysis techniques widely available.
-- :email: You can reach me at: alexandru.monahov [at] proton.me or through ResearchGate:
+- :email: You can reach me at: alexandru.monahov [at] proton.me or through: <a href="https://www.linkedin.com/in/alexandru-monahov">LinkedIn</a> and <a href="https://www.researchgate.net/profile/Alexandru-Monahov">ResearchGate</a>.
 
-       https://www.researchgate.net/profile/Alexandru-Monahov
 
 <!---
 alexandrumonahov/alexandrumonahov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
